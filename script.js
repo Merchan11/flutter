@@ -1,0 +1,2 @@
+alert("¿Sabes que puedes desarrollar con Flutter?");
+alert("Aplicaciones moviles\n Aplicaciones web\n Aplicaciones de escritorio\n Aplicaciones para dispositivos integrados y IoT\n Aplicaciones de realidad amunentada (AR) y realidad vitrual (VR)\n Juegos\n Aplicaciones educativas\n")
